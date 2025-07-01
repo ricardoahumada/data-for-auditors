@@ -1,14 +1,68 @@
 [
-   {
-      "transaction_id":"1",
-      "store":"10",
-      "date":"05/01/2020 10:05:01",
-      "price":100.5
-   },
-   {
-      "transaction_id":"2",
-      "store":"10",
-      "date":"05/01/2020 10:06:02",
-      "price":120.5
-   }
+  {
+    "transaction_id": "1",
+    "store": "10",
+    "date": "05/01/2020 10:05:01",
+    "price": 100.5
+  },
+  {
+    "transaction_id": "2",
+    "store": "10",
+    "date": "05/01/2020 10:06:02",
+    "price": 120.5
+  },
+  {
+    "transaction_id": "3",
+    "store": "10",
+    "date": "05/01/2020 10:07:15",
+    "price": 85.0
+  },
+  {
+    "transaction_id": "4",
+    "store": "11",
+    "date": "05/01/2020 10:08:30",
+    "price": 200.75
+  },
+  {
+    "transaction_id": "5",
+    "store": "12",
+    "date": "05/01/2020 10:09:45",
+    "price": 50.25
+  },
+  {
+    "transaction_id": "6",
+    "store": "10",
+    "date": "05/01/2020 10:10:20",
+    "price": 130.0
+  },
+  {
+    "transaction_id": "7",
+    "store": "11",
+    "date": "05/01/2020 10:11:10",
+    "price": 95.5
+  },
+  {
+    "transaction_id": "8",
+    "store": "12",
+    "date": "05/01/2020 10:12:40",
+    "price": 300.0
+  },
+  {
+    "transaction_id": "9",
+    "store": "10",
+    "date": "05/01/2020 10:13:55",
+    "price": 75.0
+  },
+  {
+    "transaction_id": "10",
+    "store": "11",
+    "date": "05/01/2020 10:15:05",
+    "price": 140.25
+  },
+  {
+    "transaction_id": "11",
+    "store": "12",
+    "date": "05/01/2020 10:16:12",
+    "price": 90.75
+  }
 ]
