@@ -136,3 +136,4 @@ ui-tests/playwright-report
 **/.ipynb_checkpoints
 **/.amlignore
 **/.amlignore.amltmp
+**/.ipynb_aml_checkpoints
