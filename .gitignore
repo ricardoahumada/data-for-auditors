@@ -133,3 +133,4 @@ ui-tests/playwright-report
 **/temp
 **/in_preparation
 **/admin
+**/.ipynb_checkpoints
