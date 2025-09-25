@@ -1,6 +1,6 @@
 ## Ejercicios sencillos:
 1. Mostrar todos los clientes
-2. Listar nombres y correos electrónicos de los clientes
+2. Listar nombres y correos electrónicos de los empleados
 3. Ver las ventas mayores a $1000
 4. Obtener productos ordenados alfabéticamente
 5. Mostrar los primeros 5 pagos realizados
