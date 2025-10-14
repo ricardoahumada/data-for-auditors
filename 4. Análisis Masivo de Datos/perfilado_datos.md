@@ -1,6 +1,6 @@
 # **Tipoa de perfilado **
 
-![alt text](https://datos.gob.es/sites/default/files/datosgobes/data_profiling_es.jpg)
+![alt text](./imgs/data_profiling_es.png)
 
 ## **1. Perfiles de Datos por Columna Única**
 
