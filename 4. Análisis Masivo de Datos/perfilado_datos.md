@@ -1,4 +1,4 @@
-# **Tipoa de perfilado**
+# **Tipos de perfilado**
 
 ![alt text](./imgs/data_profiling_es.png)
 
