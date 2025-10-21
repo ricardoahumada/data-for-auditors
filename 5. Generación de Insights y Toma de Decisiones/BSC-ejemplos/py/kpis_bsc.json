@@ -1,0 +1,30 @@
+{
+  "financiera": {
+    "costo_promedio_recibo": 15.873940000000001,
+    "costo_total": 15873.94,
+    "valor_detectado": 198060.44,
+    "roi_auditoria": 12.477081304326461,
+    "ahorro_automatizacion": -0.7090070099084436
+  },
+  "cliente": {
+    "satisfaccion_promedio": 0.78272,
+    "tasa_aprobacion": 0.754,
+    "tiempo_promedio_horas": 18.9814,
+    "tasa_reclamaciones": 0.146,
+    "clientes_satisfechos": 0.546
+  },
+  "procesos": {
+    "precision_auditoria": 0.9888888888888889,
+    "tasa_automatizacion": 0.647,
+    "tasa_deteccion_errores": 0.509,
+    "eficiencia_promedio": 0.052683152981339625,
+    "calidad_proceso": 0.775
+  },
+  "aprendizaje": {
+    "auditores_activos": 5,
+    "diversidad_tipos": 1.0,
+    "competencia_promedio": 0.7827144414153631,
+    "mejora_automatizacion": 0.05,
+    "capacitacion_efectividad": 0.85
+  }
+}
